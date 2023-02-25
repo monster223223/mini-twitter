@@ -1,0 +1,1 @@
+http://localhost:8000/follows/create?user_email_1=a@a.com&user_email_2=b@b.com
